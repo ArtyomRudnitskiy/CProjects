@@ -1,0 +1,8 @@
+﻿  functions.c
+D:\1 CodeProjects\Local\СИ\binary_tree\functions.c(12,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\1 CodeProjects\Local\СИ\binary_tree\functions.c(22,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  main.c
+D:\1 CodeProjects\Local\СИ\binary_tree\main.c(141,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+D:\1 CodeProjects\Local\СИ\binary_tree\functions.c(311): warning C4715: prevSearch: значение возвращается не при всех путях выполнения
+  binary_tree.vcxproj -> D:\1 CodeProjects\Local\СИ\binary_tree\Debug\binary_tree.exe
